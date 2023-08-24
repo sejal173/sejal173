@@ -9,7 +9,7 @@
 <!-- "> -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" style="max-width: 60%; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" style="max-height: 50%; display: inline-block;" data-target="animated-image.originalImage">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?u&label=Profile%20views&color=0e75b6&style=flat" sejal" /> </p> -->
 
