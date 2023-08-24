@@ -1,11 +1,16 @@
-<img alt="profile" width="900" src="https://static.vecteezy.com/system/resources/thumbnails/001/166/103/small/blue-futuristic-control-panel-design.jpg"/>
+<img alt="profile" width="900" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"/>
+
+<!-- <img alt="profile" width="900" src="./v2.mp4"/> -->
 
 <h1 align="center">Hi 👋, I'm Sejal Kakade</h1>
 <!-- <h3 align="center">Computer Science </h3> -->
 
-<!-- <img align="right" alt="code" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"/> -->
+<!-- <img align="right" alt="code" width="400" src="	https://user-images.githubusercontent.com/74038190…19923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif -->
+<!-- "> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeetkokat007&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeetkokat007" /> </p>
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeetkokat007&label=Profile%20views&color=0e75b6&style=flat" sejal" /> </p>
 
 - 🌱 I’m currently learning **Full-Stack Development**
 
