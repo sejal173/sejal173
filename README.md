@@ -10,7 +10,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" style="max-width: 40%; display: inline-block;" data-target="animated-image.originalImage">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeetkokat007&label=Profile%20views&color=0e75b6&style=flat" sejal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?u&label=Profile%20views&color=0e75b6&style=flat" sejal" /> </p>
 
 - 🌱 I’m currently learning **Full-Stack Development**
 
