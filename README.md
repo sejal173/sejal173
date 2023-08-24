@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sejal Kakade</h1>
-<img alt="profile" width="500" height="300" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"/>
+<img alt="profile" width="900" height="300" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"/>
 
 <!-- <img alt="profile" width="900" src="./v2.mp4"/> -->
 
